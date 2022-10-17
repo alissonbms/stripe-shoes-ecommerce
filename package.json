@@ -1,0 +1,12 @@
+{
+  "name": "stripe-shoes-ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "stripe": "^10.14.0"
+  }
+}
